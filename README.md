@@ -12,7 +12,9 @@
   </a>
 
   <br /><br />
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+  
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/vaibhav21soni/vaibhav21soni/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -31,31 +33,20 @@ I'm **Vaibhav Soni**, a **DevOps Architect** with 2+ years of experience in orch
 ### 🛠️ My Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,ansible,linux,nginx,postgres,mongodb,redis,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,jenkins,ansible,githubactions,gitlab,bitbucket,prometheus,grafana,bash,mysql,postgres,mongodb,redis,git,github,nginx,py&perline=6" />
 </div>
 
 <br />
 
 | Category | Skills & Tools |
 | :--- | :--- |
+| **Cloud** | AWS, Azure, Google Cloud |
 | **Orchestration** | Kubernetes, Helm, Istio, Docker |
-| **Automation** | Terraform, Ansible, Terragrunt, CDK |
-| **CI/CD** | Jenkins (Dockerized), GitHub Actions, Bitbucket |
-| **Monitoring** | Prometheus, CloudWatch, SonarQube, Dozzle |
+| **Automation** | Terraform, Terragrunt, Ansible, CDK |
+| **CI/CD** | Jenkins, GitHub Actions, GitLab, Bitbucket |
+| **Monitoring** | Prometheus, Grafana, CloudWatch, SonarQube |
+| **Language & OS** | Python, Bash, Linux (Ubuntu/RHEL) |
 | **Database** | PostgreSQL, MySQL, Redis, MongoDB |
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavsoni21&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsoni21&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavsoni21&theme=tokyo-night&hide_border=true" width="100%" />
-</div>
 
 ---
 
@@ -63,27 +54,31 @@ I'm **Vaibhav Soni**, a **DevOps Architect** with 2+ years of experience in orch
 
 #### **Inexture Solutions** | DevOps Engineer
 *Ahmedabad (2025 - Present)*
-> Operating mission-critical workloads on **private GKE clusters**. I focus on zero-downtime deployments and securing microservices with **Istio**.
+- ☸️ Operating production workloads on **private GKE clusters**.
+- 🕸️ Securing microservices with **Istio Service Mesh**.
+- 🔄 CI/CD automation supporting 10+ backend and AI services.
 
 #### **Highskyit Solutions** | DevOps Engineer
 *Ahmedabad (2023 - 2024)*
-> Led a massive **Azure-to-Terraform migration** (240+ resources), cutting manual overhead by 70%. Standardized cloud environments across multi-account AWS setups.
+- 🏗️ Migrated 240+ Azure resources to **Terraform**.
+- ☁️ Managed multi-account AWS environments using Organizations & SCPs.
+- 🤖 Automated deployments via Bitbucket CI/CD pipelines.
 
 ---
 
 ### 🔥 Featured Projects
 
-- 🛠️ **Helpr Platform**: Secure, private GKE microservices with mTLS and Cloud SQL connectivity.
-- 🤖 **Jenkins Modernization**: Architectural shift of CI/CD from legacy bare-metal to Dockerized scalability.
-- 💹 **Trading Bot Infrastructure**: high-availability AWS stack (EC2, S3, CloudFront, Redis, PostgreSQL).
-- 🏘️ **Solvere SaaS**: Multi-tenant isolation with Nginx wildcard routing and Django.
+- 🛠️ **Helpr Platform**: Production-grade GKE microservices with Istio and Cloud SQL.
+- 🤖 **CI/CD Modernization**: Migrated legacy Jenkins to a high-performance Dockerized architecture.
+- 💹 **Trading Bot Infrastructure**: High-availability stack on AWS (EC2, S3, CloudFront, Redis).
+- 🏘️ **Solvere SaaS**: Multi-tenant platform with tenant isolation and wildcard routing.
 
 ---
 
 ### 📜 Certifications
-- 💎 **HashiCorp Certified Terraform Associate**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🐧 **Red Hat Certified System Administrator (RHCSA)**
+- ✅ **HashiCorp Certified Terraform Associate**
+- ✅ **AWS Certified Cloud Practitioner**
+- ✅ **Red Hat Certified System Administrator (RHCSA)**
 
 ---
 
@@ -104,6 +99,5 @@ I'm **Vaibhav Soni**, a **DevOps Architect** with 2+ years of experience in orch
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
   <p><i>"Code. Automate. Scale. Repeat."</i></p>
 </div>
