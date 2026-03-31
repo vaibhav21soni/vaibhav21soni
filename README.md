@@ -88,7 +88,7 @@ I'm **Vaibhav Soni**, a **DevOps Engineer** with 2+ years of experience in orche
   <a href="https://linkedin.com/in/vaibhavsoni21">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vaibhavsoni@example.com">
+  <a href="mailto:vaibhavsoni5567@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://vaibhavsoni21.vercel.app/">
