@@ -20,7 +20,7 @@
 ---
 
 ### 🚀 About Me
-I'm **Vaibhav Soni**, a **DevOps Architect** with 2+ years of experience in orchestrating cloud environments. I thrive on bridging the gap between development and operations by automating everything in between.
+I'm **Vaibhav Soni**, a **DevOps Engineer** with 2+ years of experience in orchestrating cloud environments. I thrive on bridging the gap between development and operations by automating everything in between.
 
 - 🌎 **Website**: [vaibhavsoni21.vercel.app](https://vaibhavsoni21.vercel.app/)
 - ☁️ **Cloud Specialist**: AWS, Azure, GCP, DigitalOcean
